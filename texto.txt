@@ -1,0 +1,5 @@
+Arquivo apenas de teste
+
+para funcionalidades do Git e GitHub
+
+
